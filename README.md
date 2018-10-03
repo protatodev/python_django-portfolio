@@ -1,6 +1,6 @@
 # Portfolio Site
 
-* [Launch Website](https://www.snappycoder.net)
+* [Launch Website](http://www.snappycoder.net)
 
 #### Project October 3, 2018
 
