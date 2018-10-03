@@ -9,3 +9,11 @@ local_settings.py
 db.sqlite3
 /media
 /static
+
+### Front End ###
+node_modules/
+.vscode/
+public/dist/
+yarn-error.log
+.env.test
+.env.development
