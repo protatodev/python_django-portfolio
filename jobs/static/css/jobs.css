@@ -1,0 +1,26 @@
+.row a {
+  color: inherit;
+  text-decoration: inherit;
+  font-family: helvetica;
+  padding: 16px;
+  margin:16px;
+}
+
+.card {
+  box-shadow: 2px 2px 3px 3px #282728;
+  transition: 0.25s;
+  height: 500px;
+}
+
+img {
+  max-height: 225px;
+}
+
+img:hover {
+  opacity: 0.75;
+}
+
+.card-body:hover {
+  background: #1c1a1c;
+  color: white;
+}
